@@ -26,13 +26,13 @@ Example:
 2025-07-13 10:03:22,src_ip=192.168.1.101,user=bob,event=email_received,subject="Verify Your Account",attachment="invoice.exe",technique=T1566
 
 
-## 📁 Files
+## Files
 
 - `mitre_logs.txt` – synthetic log file used for ingestion
 - `README.md` – project overview and MITRE mapping
 - `screenshots/dashboard.png` – dashboard image
 
-## ⚒️ Tools Used
+## Tools Used
 
 - Splunk (Free Tier)
 - MITRE ATT&CK Framework
@@ -40,7 +40,7 @@ Example:
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 Built by Shravan Kumar Panuganti  
 For SOC analyst portfolio showcasing MITRE technique mapping in SIEM
