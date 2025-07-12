@@ -1,8 +1,8 @@
-# 📌 MITRE ATT&CK Mapping in Splunk
+# MITRE ATT&CK Mapping in Splunk
 
 This project demonstrates how to map real-world detection use cases in Splunk to MITRE ATT&CK techniques using simulated logs.
 
-## 🔍 Covered Techniques
+## Covered Techniques
 
 | Technique ID | Name                            | Use Case                       |
 |--------------|----------------------------------|--------------------------------|
@@ -11,12 +11,12 @@ This project demonstrates how to map real-world detection use cases in Splunk to
 | T1086        | PowerShell                      | Encoded or suspicious commands |
 | T1059        | Command and Scripting Interpreter | Command-line executions     |
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 
 <img width="766" height="477" alt="Screenshot 2025-07-12 at 9 07 03 AM" src="https://github.com/user-attachments/assets/8d99e29b-70bd-415a-95ee-554be43b9b9a" />
 
 
-## 🗂️ Log Format
+## Log Format
 
 Each log entry contains:
 - `src_ip`, `user`, `event`, `command`, `subject`, `attachment`, `technique`
