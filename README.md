@@ -13,7 +13,8 @@ This project demonstrates how to map real-world detection use cases in Splunk to
 
 ## 📊 Dashboard Preview
 
-![MITRE ATT&CK Dashboard](screenshots/dashboard.png)
+<img width="766" height="477" alt="Screenshot 2025-07-12 at 9 07 03 AM" src="https://github.com/user-attachments/assets/8d99e29b-70bd-415a-95ee-554be43b9b9a" />
+
 
 ## 🗂️ Log Format
 
